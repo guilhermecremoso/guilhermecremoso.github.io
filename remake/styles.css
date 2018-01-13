@@ -5,6 +5,7 @@
   box-sizing: border-box;
 }
 body {
+  width: auto;
   font-family: sans-serif;
   margin-top: 125px !important;
 }
