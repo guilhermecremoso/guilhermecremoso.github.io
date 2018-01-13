@@ -6,7 +6,7 @@
 }
 body {
   font-family: sans-serif;
-  padding: 125px 50px 50px 50px !important;
+  margin-top: 125px !important;
 }
 .body-background {
   background: url("./bg.png") repeat center center fixed;
