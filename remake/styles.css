@@ -1,5 +1,3 @@
-
-
 /*CONFIGURAÇÕES GERAIS--------------------------------------------------------*/
 *{
   box-sizing: border-box;
@@ -11,7 +9,7 @@ body {
   background: url("./bg.png") repeat center center fixed;
 }
 .well {
-  width: 100;
+  width: 100%;
   box-shadow: 3px 3px 32px 5px rgba(0,0,0,0.82) !important;
 }
 
@@ -54,7 +52,7 @@ body {
   border-bottom: 1px solid #ddd;
   color: #000;
   width: 100%;
-  height: 100%;
+  margin: 75px 0px 75px 0px;
 }
 .content-description{
   padding-left: 50px;
