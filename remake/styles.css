@@ -2,6 +2,7 @@
 
 /*CONFIGURAÇÕES GERAIS--------------------------------------------------------*/
 *{
+  box-sizing: border-box;
 }
 body {
   margin-top: 125px !important;
