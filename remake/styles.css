@@ -5,15 +5,13 @@
   box-sizing: border-box;
 }
 body {
-  width: 100%;
   font-family: sans-serif;
-  margin-top: 125px !important;
+  margin-top: 125px;
 }
 .body-background {
   background: url("./bg.png") repeat center center fixed;
 }
 .well {
-  border-radius: 25px 25px 25px 25px !important;
   box-shadow: 3px 3px 32px 5px rgba(0,0,0,0.82) !important;
 }
 
